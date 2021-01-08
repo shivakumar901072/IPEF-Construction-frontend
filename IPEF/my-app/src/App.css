@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: white;
+}
+
+.App-header {
+  background-color: skyblue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+ 
+  justify-content: top;
+  
+  color: darkblue;
+}
+
+

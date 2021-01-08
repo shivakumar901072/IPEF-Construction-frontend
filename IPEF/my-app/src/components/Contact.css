@@ -1,0 +1,47 @@
+.head {
+    color: darkblue;
+    margin-bottom: 20px;
+}
+
+.bg-img {
+    position: relative;
+    height: 350px;
+    width: 100%;
+    left: 0px;
+    padding: 0px;
+  }
+.address {
+    color: darkblue;
+    margin: 20px 50px;
+}
+.addtext {
+    word-spacing: 5px;
+    width: 45%;
+    margin-left: 50px;
+    line-height: 30px;
+}
+.phone {
+    margin-left: 50px;
+}
+.row-form {
+    content: "";
+    display: table;
+    clear: both;
+}
+.baton {
+    width: 250px;
+    position: absolute;
+    text-align: center;
+    margin-left: 850px;
+    padding: 10px;
+    background-color: darkblue;
+    color: white;
+    font-size: large;
+    border-radius: 10px;
+}
+#map {
+    margin-top: 20px;
+    padding: 25px;
+    position: relative;
+    border-color: darkblue;
+}

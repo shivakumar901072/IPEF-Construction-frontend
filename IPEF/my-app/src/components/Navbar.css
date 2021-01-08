@@ -1,0 +1,50 @@
+.topnav {
+    position: relative;
+    overflow: hidden;
+    background: darkblue ;
+    height: 80px;
+    opacity: 0.8;
+    }
+    .logo-image {
+        font-size: medium;
+        color: white;
+        font-weight: 700;
+       
+        padding: 20px;
+       
+        
+        
+    }
+    .topnav a {
+    float: left;
+    color: white;
+    font-style: fantasy;
+    font-weight: 700;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    }
+    
+    .topnav a:hover {
+    color: linen;
+    font-size: 23px;
+    font-weight: 600;
+    }
+    
+    .topnav-right {
+    float: right;
+    }
+    
+    /* Responsive navigation menu (for mobile devices) */
+    @media screen and (max-width: 600px) {
+        .topnav a, .topnav-right {
+        float: none;
+        display: block;
+        }
+    }
+    img {
+        height: 100%;
+        width: 100%;
+    
+    }

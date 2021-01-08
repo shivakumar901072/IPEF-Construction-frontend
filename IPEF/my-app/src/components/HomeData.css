@@ -1,0 +1,56 @@
+.text-section {
+    text-align: center;
+    margin-top: 60px;
+    width: 1200px;
+    position: relative;
+    line-height: 30px;
+}
+.heading {
+    margin-top: 30px;
+    margin-left: 150px;
+    color: darkblue;
+    position: relative;
+    font-weight: 700;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.heading2 {
+    margin-top: 30px;
+    margin-left: 15px;
+    color: darkblue;
+    position: relative;
+    font-weight: 900;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.description {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 120px;
+    padding: 30px;
+    text-align: justify;
+    position: relative;
+    color: gray;
+    font-size: medium;
+}
+.description2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 120px;
+    padding: 30px;
+    line-height: 30px;
+    text-align: justify;
+    position: relative;
+    color: gray;
+    font-size: medium;
+    width: 1090px;
+}
+.services {
+    padding: 50px;
+    width: 1300px;
+    height: 600px;
+    position: relative;
+}
+.services:hover {
+    padding: 20px;
+    transition: 1s;
+    transform: scale3d(1.4);
+}

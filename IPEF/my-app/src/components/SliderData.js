@@ -1,0 +1,22 @@
+export const SliderData = [
+  {
+    image:
+      'https://static.squareyards.com/resources/images/hyderabad/project-image/my-home-bhooja-project-large-image2.jpg'
+  },
+  {
+    image:
+      'https://cdn.centuryrealestate.in/uploads/2019-03-08/banner/apartment-image.jpg'
+  },
+  {
+    image:
+      'https://im.proptiger.com/1/3022408/6/kripalu-villa-elevation-102293752.jpeg'
+  },
+  {
+    image:
+      'https://www.prestigeconstructions.com//admin/uploads/projects/prestige-high-fields/gallery/prestige-high-fields-01.jpeg'
+  },
+  {
+    image:
+    'https://aec-business.com/wp-content/uploads/2020/05/CEMEX-Startup-Competition.jpg'
+  },
+];
