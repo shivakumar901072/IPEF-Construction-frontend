@@ -25,7 +25,7 @@
 }
 .description {
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 66px;
+    margin-left: 100px;
     padding: 20px;
     line-height: 30px;
     text-align: justify;
@@ -35,20 +35,21 @@
 }
 .description2 {
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 80px;
+    margin-left: 100px;
     padding: 15px;
     line-height: 30px;
     text-align: justify;
     position: relative;
     color: gray;
     font-size: medium;
-    width: 1090px;
+    
 }
 .services {
     padding: 50px;
     width: 1200px;
     height: 600px;
     position: relative;
+    margin-left: 50px;
 }
 .services:hover {
     padding: 20px;
