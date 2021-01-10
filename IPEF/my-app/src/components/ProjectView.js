@@ -45,13 +45,13 @@ function ProjectView() {
 		<div class="row">
 
   <div class="column">
-    <img class="gallery" src="./images/constructionProgress/image_1.jpg" alt="Snow" ></img>
+    <img class="gallery" src="./images/constructionProgress/Image_1.jpg" alt="Snow" ></img>
   </div>
   <div class="column">
-    <img class="gallery" src="./images/constructionProgress/image_2.jpg" alt="Forest" ></img>
+    <img class="gallery" src="./images/constructionProgress/Image_2.jpg" alt="Forest" ></img>
   </div>
   <div class="column">
-    <img  class="gallery" src="./images/constructionProgress/image_3.jpg" alt="Mountains" ></img>
+    <img  class="gallery" src="./images/constructionProgress/Image_3.jpg" alt="Mountains" ></img>
   </div>
 </div>
 		</section>
