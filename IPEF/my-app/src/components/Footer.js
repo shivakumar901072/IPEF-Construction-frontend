@@ -6,12 +6,12 @@ function Footer() {
   return ( 
       <div className="footer">
       <div className = "container-fluid mt-4" >
-          <div className="row">
+          <div className="row1">
               <div className = "col-md-2"></div>
               <div className="col-md-8 text-center mt-3">
-                  <img src="./images/facebook.png" alt="facebook" ></img>
-                      <img src="./images/instagram.png" alt="instagram" ></img>
-                          <img src="./images/twitter.png" alt="twitter"></img>
+                  <img src="./images/footer/facebook.png" alt="facebook" ></img>
+                      <img src="./images/footer/instagram.png" alt="instagram" ></img>
+                          <img src="./images/footer/twitter.png" alt="twitter"></img>
                           <div className = "col-md-2"></div>
 
                 </div>

@@ -5,7 +5,7 @@ function About () {
     return (
         <>
         <div>
-        <img className="bg-img" data-parallax="scroll" src="http://pranathiinfra.com/images/gallery_extra/breadcrumb-bg.jpg"  alt="" ></img>
+        <img className="bg-img" data-parallax="scroll" src="https://echopark.com.ua/web/upload/images/loc-img6jpg26042016104524.jpg"  alt="" ></img>
     </div>
         <div class="all">
        

@@ -6,7 +6,7 @@ function Projects() {
   return (
     <div>
       <div>
-        <img className="bg-img" src="http://pranathiinfra.com/images/gallery_extra/breadcrumb-bg.jpg" alt="" ></img>
+        <img className="bg-img" src="https://echopark.com.ua/web/upload/images/loc-img6jpg26042016104524.jpg" alt="" ></img>
     </div>
     <section>
 		
@@ -17,13 +17,13 @@ function Projects() {
 			   <div className="row-projects">
 
 			   <div className="column-projects" style={{backgroundColor: "white"}}>
-			<a href="http://pranathiinfra.com/project_details/view/8" className="img-container">
+			<a href="ProjectView" className="img-container">
            
-			  <img    className="site" src="http://pranathiinfra.com/images/grid_images/EESHA_HIGH_QUALITY_IMAGE_new_size1.jpg" alt=""></img>
+			  <img    className="site" src="./images/projectImages/bhooja_1.jpg" alt=""></img>
 			</a>
 			<div className="inner-div">
 				   <h5>Project Name: </h5>
-				   <a href="http://pranathiinfra.com/project_details/view/8" className="title">Pranathi Eesha</a>
+				   <a href="ProjectView" className="title">Pranathi Eesha</a>
 				   
 			<p><i className="fa fa-map-marker"></i><h4>Address:</h4> 
               <span>
@@ -37,7 +37,7 @@ function Projects() {
 				      	
 		            </div>
 					<div>
-					<a href="projects_details/view/1" class="btn more-link">More</a>
+					<a href="ProjectView" class="btn more-link">More</a>
 					</div>
 			  </div>
 
@@ -45,13 +45,13 @@ function Projects() {
 
 
 			   <div className="column-projects" style={{backgroundColor: "white"}}>
-			<a href="http://pranathiinfra.com/project_details/view/8" className="img-container">
+			<a href="ProjectView" className="img-container">
            
-			  <img    className="site" src="http://pranathiinfra.com/images/grid_images/EESHA_HIGH_QUALITY_IMAGE_new_size1.jpg" alt=""></img>
+			  <img    className="site" src="./images/projectImages/villa.jpeg" alt=""></img>
 			</a>
 			<div className="inner-div">
 				   <h5>Project Name: </h5>
-				   <a href="http://pranathiinfra.com/project_details/view/8" className="title">Pranathi Eesha</a>
+				   <a href="ProjectView" className="title">Pranathi Eesha</a>
 				   
 			<p><i className="fa fa-map-marker"></i><h4>Address:</h4> 
               <span>
@@ -65,7 +65,7 @@ function Projects() {
 				      	
 		            </div>
 					<div>
-					<a href="projects_details/view/2" class="btn more-link">More</a>
+					<a href="ProjectView" class="btn more-link">More</a>
 					</div>
 			  </div>
 
@@ -73,13 +73,13 @@ function Projects() {
 
 
 			   <div className="column-projects" style={{backgroundColor: "white"}}>
-			<a href="http://pranathiinfra.com/project_details/view/8" className="img-container">
+			<a href="ProjectView" className="img-container">
            
-			  <img    className="site" src="http://pranathiinfra.com/images/grid_images/EESHA_HIGH_QUALITY_IMAGE_new_size1.jpg" alt=""></img>
+			  <img    className="site" src="./images/projectImages/victoria.jpg" alt=""></img>
 			</a>
 			<div className="inner-div">
 				   <h5>Project Name: </h5>
-				   <a href="http://pranathiinfra.com/project_details/view/8" className="title">Pranathi Eesha</a>
+				   <a href="ProjectView" className="title">Pranathi Eesha</a>
 				   
 			<p><i className="fa fa-map-marker"></i><h4>Address:</h4> 
               <span>
@@ -94,7 +94,7 @@ function Projects() {
 		            </div>
 			  </div>
 			  <div>
-			  <a href="projects_details/view/3" class="btn more-link">More</a>
+			  <a href="ProjectView" class="btn more-link">More</a>
 					</div>
 		</div>
 					
@@ -110,13 +110,13 @@ function Projects() {
 			   <div className="row-projects">
 
 			   <div className="completed" style={{backgroundColor: "white"}}>
-			<a href="http://pranathiinfra.com/project_details/view/8" className="img-container">
+			<a href="ProjectView" className="img-container">
            
-			  <img    className="site" src="http://pranathiinfra.com/images/grid_images/EESHA_HIGH_QUALITY_IMAGE_new_size1.jpg" alt=""></img>
+			  <img    className="site" src="./images/projectImages/apartment.jpeg" alt=""></img>
 			</a>
 			<div className="inner-div">
 				   <h5>Project Name: </h5>
-				   <a href="http://pranathiinfra.com/project_details/view/8" className="title">Pranathi Eesha</a>
+				   <a href="ProjectView" className="title">Pranathi Eesha</a>
 				   
 			<p><i className="fa fa-map-marker"></i><h4>Address:</h4> 
               <span>
@@ -131,21 +131,14 @@ function Projects() {
 		            </div>
 			  </div>
 
-			   {/* over */}
-
-
-			   <div className="column" style={{backgroundColor: "white"}}>
-				   <p></p>
-			</div>
-
-			   {/* over */}
+			   
 
 
 			   <div className="column" style={{backgroundColor: "white"}}>	
 			   <p></p>   
 			</div>
 			<div>
-			<a href="projects_details/view/4" class="btn more-link">More</a>
+			<a href="ProjectView" class="btn more-link">More</a>
 					</div>
 
 		</div>

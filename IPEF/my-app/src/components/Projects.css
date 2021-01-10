@@ -1,10 +1,9 @@
-
 .bg-img {
   position: relative;
-  height: 350px;
-  width: 100%;
-  left: 0px;
-  padding: 0px;
+  height: 400px;
+  width: 1225px;
+  margin-left: 0px;
+
 }
 
 * {
@@ -17,7 +16,7 @@
     background: #BFA249;
     color: #FFFFFF;
     border: 0;
-   margin-left: 170px;
+   margin-left: 150px;
     -moz-border-radius: 0;
     -webkit-border-radius: 0;
     border-radius: 0;
@@ -50,7 +49,7 @@
 
 .more-ink {
   position: absolute;
-  left: 50%;
+  left: 40%;
   bottom: -15px;
   z-index: 1;
   padding: 0 30px;
@@ -63,7 +62,7 @@
 
 h1 {
   text-align: center;
-  padding-top: 80px;
+  padding-top: 40px;
   color: darkblue;
   text-decoration: underline;  
 }
@@ -81,7 +80,7 @@ h1 {
   display: table;
   clear: both;
   margin: 40px;
-  margin-left: 70px;
+  margin-left: 40px;
   position: relative;
 }
 

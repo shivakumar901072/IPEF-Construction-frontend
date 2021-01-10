@@ -19,15 +19,15 @@ function HomeData () {
         </div>
         <div>
         <h2 className="heading2">Structural Design</h2>
-        <a href="Projects"><img class="services" src="./images/Structure.jpeg" alt=""></img></a>
+        <a href="Projects"><img class="services" src="./images/home/structural.jpeg" alt=""></img></a>
         </div>
         <div>
         <h2 className="heading2">Architects Design</h2>
-        <a href="Projects"><img class="services" src="./images/Ar.jpeg" alt=""></img></a>
+        <a href="Projects"><img class="services" src="./images/home/architecture.jpeg" alt=""></img></a>
         </div>
         <div>
         <h2 className="heading2">Interior Design</h2>
-        <a href="Projects"><img class="services" src="./images/Interior.jpeg" alt=""></img></a>
+        <a href="Projects"><img class="services" src="./images/home/interior.jpeg" alt=""></img></a>
         </div>
       </section>
     </div>

@@ -3,7 +3,7 @@ import './App.css';
 
 import Navbar from './components/Navbar.js';
 import Routes from './components/Routes.js';
-import Footer from './components/Footer/Footer.js';
+import Footer from './components/Footer.js';
 
 
 function App() {

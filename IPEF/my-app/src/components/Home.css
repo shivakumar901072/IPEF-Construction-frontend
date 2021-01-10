@@ -7,10 +7,12 @@
   }
   
   .image {
-    width: 1340px;
-    height: 658px;
-    border-radius: 5px;
+    width: 1226px;
+    height: 565px;
+    border-radius: 2px;
     padding: 0px;
+    position: relative;
+    margin-left: 0px;
 
   }
   

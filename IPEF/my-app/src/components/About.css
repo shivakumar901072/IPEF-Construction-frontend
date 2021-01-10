@@ -10,10 +10,17 @@
 font-family: Arial, Helvetica, sans-serif;
 margin-left: 50px;
 padding: 20px;
-width:1200px;
+width:1140px;
 line-height: 28px;
 text-align: justify;
 position: relative;
 color: gray;
 font-size: large;
 }
+.bg-img {
+    position: relative;
+    height: 400px;
+    width: 1225px;
+    margin-left: 0px;
+  
+  }

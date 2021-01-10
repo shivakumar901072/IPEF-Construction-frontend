@@ -7,7 +7,7 @@ function Contact() {
       <div>
         <img
           className="bg-img"
-          src="http://pranathiinfra.com/images/gallery_extra/breadcrumb-bg.jpg"
+          src="https://echopark.com.ua/web/upload/images/loc-img6jpg26042016104524.jpg"
           alt=""
         ></img>
       </div>

@@ -5,10 +5,10 @@
 
 .bg-img {
     position: relative;
-    height: 350px;
-    width: 100%;
-    left: 0px;
-    padding: 0px;
+    height: 400px;
+    width: 1225px;
+    margin-left: 0px;
+  
   }
 .address {
     color: darkblue;
