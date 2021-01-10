@@ -72,7 +72,7 @@ function Projects() {
 			   {/* over */}
 
 
-			   <div className="column-projects" style={{backgroundColor: "white"}}>
+			   <div className="column-projects" >
 			<a href="ProjectView" className="img-container">
            
 			  <img    className="site" src="./images/projectImages/victoria.jpg" alt=""></img>
@@ -109,7 +109,7 @@ function Projects() {
 
 			   <div className="row-projects">
 
-			   <div className="completed" style={{backgroundColor: "white"}}>
+			   <div className="completed">
 			<a href="ProjectView" className="img-container">
            
 			  <img    className="site" src="./images/projectImages/apartment.jpeg" alt=""></img>
@@ -131,12 +131,6 @@ function Projects() {
 		            </div>
 			  </div>
 
-			   
-
-
-			   <div className="column" style={{backgroundColor: "white"}}>	
-			   <p></p>   
-			</div>
 			<div>
 			<a href="ProjectView" class="btn more-link">More</a>
 					</div>
