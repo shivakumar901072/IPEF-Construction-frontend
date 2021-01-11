@@ -87,6 +87,12 @@ h1 {
 .site {
   height: 200px;
   width: 350px;
+ opacity: 1;
+   
+}
+.site:hover {
+ 
+  opacity: 0.9;
 }
 
 .inner-div {

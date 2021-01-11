@@ -17,13 +17,13 @@ function Projects() {
 			   <div className="row-projects">
 
 			   <div className="column-projects" style={{backgroundColor: "white"}}>
-			<a href="ProjectView" className="img-container">
+			<a href="ProjectView1" className="img-container">
            
 			  <img    className="site" src="./images/projectImages/bhooja_1.jpg" alt=""></img>
 			</a>
 			<div className="inner-div">
 				   <h5>Project Name: </h5>
-				   <a href="ProjectView" className="title">Pranathi Eesha</a>
+				   <a href="ProjectView1" className="title">Pranathi Eesha</a>
 				   
 			<p><i className="fa fa-map-marker"></i><h4>Address:</h4> 
               <span>
@@ -37,7 +37,7 @@ function Projects() {
 				      	
 		            </div>
 					<div>
-					<a href="ProjectView" class="btn more-link">More</a>
+					<a href="ProjectView1" class="btn more-link">More</a>
 					</div>
 			  </div>
 
@@ -45,13 +45,13 @@ function Projects() {
 
 
 			   <div className="column-projects" style={{backgroundColor: "white"}}>
-			<a href="ProjectView" className="img-container">
+			<a href="ProjectView2" className="img-container">
            
 			  <img    className="site" src="./images/projectImages/villa.jpeg" alt=""></img>
 			</a>
 			<div className="inner-div">
 				   <h5>Project Name: </h5>
-				   <a href="ProjectView" className="title">Pranathi Eesha</a>
+				   <a href="ProjectView2" className="title">Pranathi Eesha</a>
 				   
 			<p><i className="fa fa-map-marker"></i><h4>Address:</h4> 
               <span>
@@ -65,7 +65,7 @@ function Projects() {
 				      	
 		            </div>
 					<div>
-					<a href="ProjectView" class="btn more-link">More</a>
+					<a href="ProjectView2" class="btn more-link">More</a>
 					</div>
 			  </div>
 
@@ -73,13 +73,13 @@ function Projects() {
 
 
 			   <div className="column-projects" >
-			<a href="ProjectView" className="img-container">
+			<a href="ProjectView3" className="img-container">
            
 			  <img    className="site" src="./images/projectImages/victoria.jpg" alt=""></img>
 			</a>
 			<div className="inner-div">
 				   <h5>Project Name: </h5>
-				   <a href="ProjectView" className="title">Pranathi Eesha</a>
+				   <a href="ProjectView3" className="title">Pranathi Eesha</a>
 				   
 			<p><i className="fa fa-map-marker"></i><h4>Address:</h4> 
               <span>
@@ -94,7 +94,7 @@ function Projects() {
 		            </div>
 			  </div>
 			  <div>
-			  <a href="ProjectView" class="btn more-link">More</a>
+			  <a href="ProjectView3" class="btn more-link">More</a>
 					</div>
 		</div>
 					
@@ -110,13 +110,13 @@ function Projects() {
 			   <div className="row-projects">
 
 			   <div className="completed">
-			<a href="ProjectView" className="img-container">
+			<a href="ProjectView4" className="img-container">
            
 			  <img    className="site" src="./images/projectImages/apartment.jpeg" alt=""></img>
 			</a>
 			<div className="inner-div">
 				   <h5>Project Name: </h5>
-				   <a href="ProjectView" className="title">Pranathi Eesha</a>
+				   <a href="ProjectView4" className="title">Pranathi Eesha</a>
 				   
 			<p><i className="fa fa-map-marker"></i><h4>Address:</h4> 
               <span>
@@ -132,7 +132,7 @@ function Projects() {
 			  </div>
 
 			<div>
-			<a href="ProjectView" class="btn more-link">More</a>
+			<a href="ProjectView4" class="btn more-link">More</a>
 					</div>
 
 		</div>

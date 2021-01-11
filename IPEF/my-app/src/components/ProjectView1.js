@@ -1,7 +1,7 @@
 import React from 'react';
-import './ProjectView.css';
+import './ProjectView1.css';
 
-function ProjectView() {
+function ProjectView1() {
     return(
         <div>
          
@@ -31,7 +31,7 @@ function ProjectView() {
 		  
 			   <div>
 				   <h2 className="heads">Amenities</h2>
-				   <img className="amenities" src="./images/Amenities.jpeg" alt=""></img>
+				   <img className="amenities" src="./images/Amenities.png" alt=""></img>
 			   </div>
 		  
 			
@@ -60,4 +60,4 @@ function ProjectView() {
 
 }
 
-export default ProjectView;
+export default ProjectView1;
