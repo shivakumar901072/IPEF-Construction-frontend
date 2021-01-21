@@ -13,22 +13,18 @@ function HomeData () {
       </section>
 
         <section className="">
-        <h2 className="heading2">Our Services</h2>
-        <div className="description2">
-        <p><big>Supporting architects, engineers, technicians, builders, and government bodies, IPEF Constructions team provides precise, time-bound, and detailed Services adhere to all leading international standards, codes, and practices. Our team of structural engineers, architects, and interior designers come with deep domain expertise and are proficient in all leading technologies to ensure qualitative services.</big></p>
-        </div>
         <div>
-        <h2 className="heading2">Structural Design</h2>
-        <a href="Projects"><img class="services" src="./images/home/structural.jpeg" alt=""></img></a>
-        </div>
-        <div>
-        <h2 className="heading2">Architects Design</h2>
-        <a href="Projects"><img class="services" src="./images/home/architecture.jpeg" alt=""></img></a>
-        </div>
-        <div>
-        <h2 className="heading2">Interior Design</h2>
-        <a href="Projects"><img class="services" src="./images/home/interior.jpeg" alt=""></img></a>
-        </div>
+      <h1 className="heading2">Our Business</h1>
+      <div className="description2">
+      <p><big>IPEF Constructions leads in nearly every sphere of construction business. Serving customers is our utmost proiority. we Explore our offerings by Industry as well as by Business.</big></p>
+      </div>
+      <h2 className="heading2">Construction</h2>
+      <a href="Projects"><img class="services" src="./images/home/Construction.jpeg" alt=""></img></a>
+    	</div>
+      <div>
+      <h2 className="heading2">Real Estate</h2>
+      <a href="Projects"><img class="services" src="./images/home/Realestate.jpeg" alt=""></img></a>
+    	</div>
       </section>
     </div>
   );

@@ -7,6 +7,7 @@ import ProjectView1 from './ProjectView1';
 import ProjectView2 from './ProjectView2';
 import ProjectView3 from './ProjectView3';
 import ProjectView4 from './ProjectView4';
+import Services from './Services';
 import About from './About';
 import Contact from './Contact';
 
@@ -43,6 +44,10 @@ const Routes = () => {
 
         <Route exact path="/ProjectView4" >
         <ProjectView4 />
+        </Route>
+
+        <Route exact path="/Services" >
+        <Services />
         </Route>
 
 

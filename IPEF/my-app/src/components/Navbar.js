@@ -14,6 +14,7 @@ import './Navbar.css';
    <div className="topnav-right">
    <a href="/" class="active">Home</a>
    <a href="projects" >Projects</a>
+   <a href="services" >Services</a>
      <a href="about">About</a>
      <a href="contact">Contact</a>
    <a href="Login">Log In</a>

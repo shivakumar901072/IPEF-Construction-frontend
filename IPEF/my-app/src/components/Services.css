@@ -7,29 +7,26 @@
 }
 .heading {
     margin-top: 30px;
-    margin-left: 200px;
+    margin-left: 150px;
     color: darkblue;
     position: relative;
     font-weight: 700;
     text-align: center;
-    justify-content: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .heading2 {
     margin-top: 30px;
-    margin-left: 10px;
+    margin-left: 15px;
     color: darkblue;
     position: relative;
-    font-weight: 700;
+    font-weight: 900;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .description {
     font-family: Arial, Helvetica, sans-serif;
-    padding: 20px;
-    margin-left: 40px;
-    width: 1150px;
-    line-height: 30px;
+    margin-left: 120px;
+    padding: 30px;
     text-align: justify;
     position: relative;
     color: gray;
@@ -37,25 +34,26 @@
 }
 .description2 {
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 40px;
-    width: 1250px;
-    padding: 20px;
+    margin-left: 120px;
+    padding: 30px;
     line-height: 30px;
     text-align: justify;
     position: relative;
     color: gray;
     font-size: medium;
-    
+    width: 1090px;
 }
 .services {
     padding: 50px;
-    width: 1250px;
+    width: 1300px;
     height: 600px;
+    border-radius: 25px;
     position: relative;
-    margin-left: 40px;
+    transition: 0.5s;
+    transform: scale3d(1);
 }
 .services:hover {
     padding: 20px;
-    transition: 1s;
-    transform: scale3d(1.2);
+    transition: 0.4s;
+    transform: scale3d(1.3);
 }
