@@ -5,8 +5,11 @@ import './Navbar.css';
   <div>
    <div className="topnav">
 
-   <a href="/">IPEF constructions </a> 
-      
+   <a href="/">
+        <img class="logo" src="./images/logo1.jpeg" alt="logo"></img>
+        <span class="tagline">IPEF Constructions<br/>
+                  Building Future !!!</span>
+      </a> 
   
    <div className="topnav-right">
    <a href="/" class="active">Home</a>
