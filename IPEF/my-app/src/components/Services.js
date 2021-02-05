@@ -6,7 +6,7 @@ function Services () {
   return (
     <div>
    <div>
-        <img className="bg-img" src="https://echopark.com.ua/web/upload/images/loc-img6jpg26042016104524.jpg" alt="" ></img>
+        <img className="bg-img" src="./images/bg-image.jpg" alt="" ></img>
     </div>
       <section className="">
       <h1 className="heading2">Our Services</h1>
