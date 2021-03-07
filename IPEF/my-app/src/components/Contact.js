@@ -7,7 +7,7 @@ function Contact() {
       <div>
         <img
           className="bg-img"
-          src="./images/bg-image.jpg"
+          src="./images/Cover.jpg"
           alt=""
         ></img>
       </div>

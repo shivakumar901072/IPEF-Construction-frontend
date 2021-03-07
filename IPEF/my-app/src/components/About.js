@@ -5,7 +5,7 @@ function About () {
     return (
         <>
         <div>
-        <img className="bg-img" data-parallax="scroll" src="./images/bg-image.jpg"  alt="" ></img>
+        <img className="bg-img" data-parallax="scroll" src="./images/Cover.jpg"  alt="" ></img>
     </div>
         <div class="all">
        

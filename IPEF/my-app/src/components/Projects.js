@@ -6,7 +6,7 @@ function Projects() {
   return (
     <div>
       <div>
-        <img className="bg-img" src="./images/bg-image.jpg" alt="" ></img>
+        <img className="bg-img" src="./images/Cover.jpg" alt="" ></img>
     </div>
     <section>
 		

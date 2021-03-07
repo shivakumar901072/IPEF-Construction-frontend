@@ -6,7 +6,7 @@ function Services () {
   return (
     <div>
    <div>
-        <img className="bg-img" src="./images/bg-image.jpg" alt="" ></img>
+        <img className="bg-img" src="./images/Cover.jpg" alt="" ></img>
     </div>
       <section className="">
       <h1 className="heading2">Our Services</h1>
